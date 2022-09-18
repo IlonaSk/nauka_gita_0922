@@ -1,1 +1,1 @@
-print ("Cześć Ilona! Jak się masz?")
+print ("Cześć Ilona! Co u Ciebie?")
